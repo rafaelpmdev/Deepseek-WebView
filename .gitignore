@@ -1,0 +1,19 @@
+# Arquivos de build
+bin/
+obj/
+*.suo
+*.user
+*.cache
+*.pdb
+
+# Arquivos do Visual Studio
+.vs/
+*.csproj.user
+*.sln
+
+# Pacotes NuGet
+packages/
+*.nupkg
+
+# Arquivos de debug
+*.log
